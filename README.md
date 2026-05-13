@@ -37,3 +37,5 @@ Matplotlib, Seaborn, Imbalanced-learn
 - Add SHAP values for model explainability
 - Try XGBoost and LightGBM
 - Deploy as web app
+## Open in Colab
+https://colab.research.google.com/drive/1JcHX-Mwl9OGeA-FizMcAB5qdfZ0UjRJD?usp=sharing
